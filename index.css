@@ -4,3 +4,10 @@
   height:300px;
   width: 400px;
 }
+body{
+text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
